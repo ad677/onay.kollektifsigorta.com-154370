@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>QR İçerik</title>
+</head>
+<body>
+    <h1>Merhaba! QR kodunuz çalışıyor.</h1>
+    <p>Bu içeriği istediğiniz zaman değiştirebilirsiniz.</p>
+</body>
+</html>
